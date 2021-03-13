@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dkurganskii/tours-app#readme",
   "devDependencies": {
     "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "emmet": "^2.3.2"
   }
 }
