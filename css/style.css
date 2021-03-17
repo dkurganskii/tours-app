@@ -106,6 +106,14 @@ body {
 .u-margin-bottom-big {
   margin-bottom: 8rem; }
 
+.composition {
+  position: relative; }
+  .composition__photo {
+    width: 55%;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+    position: absolute; }
+
 .btn:link, .btn:visited {
   text-transform: uppercase;
   text-decoration: none;
